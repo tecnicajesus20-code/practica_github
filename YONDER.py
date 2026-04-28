@@ -1,1 +1,2 @@
-print("HOLA")
+def imprension(texto):
+    print(texto)
