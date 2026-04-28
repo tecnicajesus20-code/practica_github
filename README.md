@@ -2,3 +2,4 @@
 Yonder Maldonado 
 Ricardo Vargas
 Jesus Salcedo 
+Brayan Medina
